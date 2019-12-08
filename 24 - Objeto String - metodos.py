@@ -5,3 +5,4 @@
 nombreUsuario=input("Nombre de usuario: ")
 print("Tu nombre de usuario es: ", nombreUsuario.capitalize())
 
+

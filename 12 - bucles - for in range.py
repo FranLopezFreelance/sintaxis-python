@@ -12,3 +12,4 @@ nombre = "Juan"
 
 for i in range(len(nombre)): #se puede usar la función len de un string para el range
 	print(nombre[i] + str(i), end=" ")
+	

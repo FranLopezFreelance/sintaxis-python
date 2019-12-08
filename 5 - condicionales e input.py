@@ -8,3 +8,4 @@ def evaluacion(nota):
 	return valoracion
 
 print(evaluacion(int(nota))) #se usa int porque por defecto python toma valor como string
+

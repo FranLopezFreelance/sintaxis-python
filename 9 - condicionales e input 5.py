@@ -6,3 +6,4 @@ if asignatura in ("informática gráfica", "arquitectura de software", "usabilid
 	print("Asignatura elegida: " + asignatura )
 else:
 	print("Asignatura no contemplada")
+	

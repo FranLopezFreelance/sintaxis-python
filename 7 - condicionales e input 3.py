@@ -20,3 +20,4 @@ if salario_administrativo < salario_jefe_area < salario_director < salario_presi
 	print("todo funciona correctamente")
 else:
 	print("algo funciona mal")
+	

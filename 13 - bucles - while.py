@@ -25,3 +25,4 @@ if not intentos:
 	print("Has perdido las 3 oportunidades")
 else:
 	print(f"{edad} años, bien. Puedes pasar")
+	

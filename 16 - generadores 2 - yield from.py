@@ -10,4 +10,5 @@ def devuelve_ciudades(*ciudades): #el * antes del argunmento marca que no se sab
 ciudades_devueltas = devuelve_ciudades("Madrid", "Barcelona", "Bilbao", "Valencia") 
 
 print(next(ciudades_devueltas))							  
-print(next(ciudades_devueltas))							  
+print(next(ciudades_devueltas))	
+						  

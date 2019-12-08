@@ -20,3 +20,4 @@ def verificar_email(email):
 
 for i in personas:
 	verificar_email(input("Ingrese un Email para verificar: "))
+	

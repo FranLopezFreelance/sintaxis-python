@@ -3,3 +3,4 @@ lista = ["Primavera","Verano", "Otoño","Invierno"]
 
 for estacion in lista: #bucle determinado / Tipo foreach
 	print(estacion)
+	

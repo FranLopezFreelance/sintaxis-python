@@ -13,3 +13,4 @@ except ValueError as ErrorNumeroNegativo: #si quiero adaptar el error en el exce
 	print(ErrorNumeroNegativo) #y en el print envío el error que definé anteriormente
 
 print("El programa ha terminado")
+
